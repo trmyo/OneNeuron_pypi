@@ -8,7 +8,7 @@ USER_NAME = "trmyo"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",     # needs to update every time its is modified
     author=USER_NAME,
     author_email="trmyodwd@gmail.com",
     description="its an implimentation of Perceptron",
